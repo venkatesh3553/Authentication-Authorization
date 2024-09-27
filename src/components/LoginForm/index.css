@@ -129,17 +129,17 @@
   margin-top: 3px;
   margin-bottom: 0px;
   font-family: 'Roboto';
-  
+
   line-height: 16px;
   color: #ff0b37;
 }
-.input{
+.input {
   padding: 10px;
   padding-left: 0xp;
   outline: none;
   border-radius: 6px;
-  border:  1px solid black;
+  border: 1px solid black;
   font-style: italic;
-  
+
   font-size: 18px;
 }
