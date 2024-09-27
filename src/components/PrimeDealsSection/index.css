@@ -11,12 +11,12 @@
 }
 
 @media screen and (max-width: 567px) {
-  .register-prime-image{
+  .register-prime-image {
     height: 50px;
   }
 }
 @media screen and (max-width: 768px) {
-  .register-prime-image{
+  .register-prime-image {
     height: 100px;
   }
 }
